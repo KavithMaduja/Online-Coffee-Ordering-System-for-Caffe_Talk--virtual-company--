@@ -1,0 +1,2 @@
+rootProject.name='Caffe_Talk'
+include ':app'
